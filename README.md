@@ -1,6 +1,5 @@
-### Hi there 👋
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Hi, This is Taehoon's Github page. 👋
+## _Modifying currently in progress..._
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
