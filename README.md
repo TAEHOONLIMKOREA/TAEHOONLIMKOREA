@@ -1,6 +1,7 @@
+#Taehoon's Github page. 👋
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi!%I'm%20Taehoon!&fontSize=50&animation=fadeIn&rotate=20&fontAlign=70&fontAlignY=40)
 
-# Hi, This is Taehoon's Github page. 👋
+
 ## _Modifying currently in progress..._
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
